@@ -4,3 +4,8 @@ scikit-learn
 xgboost
 seaborn
 matplotlib
+fastapi
+uvicorn
+
+pytest
+httpx
